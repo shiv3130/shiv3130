@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiv3130 as venkata. gogireddy
+- 👋 Hi, I’m @venkata gogireddy as venkata. gogireddy
 - 👀 I’m interested in ... data science
 - 🌱 I’m currently learning ... Artificial intelligence and machine learning
 - 💞️ I’m looking to collaborate on ... Ai. or data science
